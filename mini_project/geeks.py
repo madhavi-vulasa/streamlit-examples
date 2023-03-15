@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('./Iris.csv')
+df = pd.read_csv('Iris.csv')
 df.head()
 # Dropping the Id column
 df.drop('Id', axis = 1, inplace = True)
