@@ -1,2 +1,3 @@
-reference:
-https://www.geeksforgeeks.org/deploy-a-machine-learning-model-using-streamlit-library/
+pandas==1.5.3
+streamlit==1.19.0
+numpy
